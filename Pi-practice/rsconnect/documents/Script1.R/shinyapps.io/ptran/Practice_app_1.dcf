@@ -1,0 +1,12 @@
+name: Practice_app_1
+title: Practice_app_1
+username:
+account: ptran
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3466888
+bundleId: 4088376
+url: https://ptran.shinyapps.io/Practice_app_1/
+when: 1610491054.37375
+asMultiple: FALSE
+asStatic: FALSE
